@@ -26,4 +26,5 @@
   <br>
   📫 You can reach out to me: <a href="mailto: sanjaykumargautam535@gmail.com">sanjaykumargautam535@gmail.com</a>
 </p>
-
+<h5 align="center">[Badges](https://holopin.io/@sanjay535)
+</h5>
