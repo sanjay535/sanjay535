@@ -26,11 +26,11 @@
   <br>
   🎓 I have completed my BE from SGSITS, INDORE
   <br>
-  👯 I’m looking to collaborate on Open Source Projects
+  👯 I’m looking to collaborate on Open Source Projects and ❤️ like to work in top notch tech
   <br>
-  📚 I’m currently learning node JS
+  📚 Everyday learn new things to approach problems simple and easy way
   <br>
-  💬 I implement web app when any idea hit
+  💬 When i get any idea💡on which i can help community. I just do it.
   <br>
   📫 You can reach out to me: <a target="_blank" href="mailto:sanjaykumargautam535@gmail.com"><img height=20 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
