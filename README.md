@@ -32,14 +32,14 @@
   <br>
   💬 I implement web app when any idea hit
   <br>
-  📫 You can reach out to me: <a target="_blank" href="mailto:sanjaykumargautam535@gmail.com"><img vertical-align="center" height=10 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+  📫 You can reach out to me: <a target="_blank" href="mailto:sanjaykumargautam535@gmail.com"><img height=20 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
 <h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjay535&&show_icons=true&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay535&show_icons=true&theme=radical"/>
 </h1>
 <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjay535&layout=compact&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjay535&layout=compact&show_icons=true&theme=radical&hide=jupyter+Notebook,python&langs_count=8"/>
 </h1>
 <p font-size="48px" align="center"><b>My skills includes</b></p> 
 <h1 align="center">
@@ -57,6 +57,4 @@
 </h1>
 <h5 align="center">[Badges](https://holopin.io/@sanjay535)
 </h5>
-<h2 align="center">
- <a href="https://github.com/sanjay535/drawing-web-app/tree/master"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay535&repo=drawing-web-app"/></a>
-</h2>
+
